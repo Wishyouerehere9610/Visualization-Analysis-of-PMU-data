@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <link rel='stylesheet' href='css/lpStyles.css'>
+    <script src='https://d3js.org/d3.v5.min.js'></script>
+    <script src='script/index.js'></script>
+  </head>
+  <body>
+    <div id = "visualization">
+      <svg id='map'></svg>
+    </div>
+    <div id = "controls">
+      <select id='focus-select'>
+        <option value=0>Texas</option>
+        <option value=1>Coast</option>
+        <option value=2>East</option>
+        <option value=3>Far West</option>
+        <option value=4>North</option>
+        <option value=5>North Central</option>
+        <option value=6>South</option>
+        <option value=7>South Central</option>
+        <option value=8>West</option>
+      </select>
+      <h1>BUS</h1>
+      <h2 id = "bText">&nbsp;</h2>
+      <h1>REGION</h1>
+      <h2 id = "rText">&nbsp;</h2>
+      <h1>ZONE</h1>
+      <h2 id = "zText">&nbsp;</h2>
+    </div>
+  </body>
+</html>

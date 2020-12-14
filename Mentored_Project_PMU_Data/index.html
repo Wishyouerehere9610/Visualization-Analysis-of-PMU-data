@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <link rel='stylesheet' href='css/style.css'>
+    <title>Visual Analysis of PMU data</title>
+  </head>
+  <h1 style="text-align:center; color:#802b00;">Visual Analysis of PMU Data</h2>
+    <div class='intro'>
+    <p>PMUs, or phasor measurement units, are sensors that are placed in the power grid network, which measure various attributes associated with electricity (voltage, frequency, etc.). PMUs provide very fast measurements (usually at least 30 measurements per second) and the data is highly noisy, which makes analysis a non-trivial task. PMU data is therefore time series data that is linked through the network structure of the power grid network. When events occur in the power grid such as a blackout or oscillation, the effects of the event can propagate through the network and be sensed by PMUs. This project will be to develop a visual analytics interface to analyze the PMU dataset, with an emphasis on analyzing events and identifying anomalous behavior.<p>
+    </div>
+  <body style="background-color:#f2f2f2;">
+    <div class="control" style="float: left;">
+        <br>
+        <label for="busname">Bus Name:</label>
+        <br>
+        <br>
+        <h3>Bus Detail Charts:</h3>
+        <br>
+        <label for="phase">Voltage Phase:</label>
+        <select class='select-css' id='phase'>
+        <option value=' Va'>VAm</option>
+        <option value=' Vb'>VBm</option>
+        <option value=' Vc'>VCm</option>
+        </select>
+        <br>
+        <br>
+        <label for="Start">Start Time Stamp: </label>
+        <input type="text" id="StartTime" name="Start"><br>
+        <br>
+        <label for="End">End Time Stamp:&nbsp;</label>
+        <input type="text" id="EndTime" name="End"><br>
+        <br>
+        <button class="Button" id="Button1" type="button" >Time Series Chart</button><br>
+        <button class="Button" id="Button2" type="button" >FFT vs Frequency Chart</button>
+        <br>
+        <br>
+        <img src="imgs/sample_location.png" style=" display: block;
+                                                margin-left: auto;
+                                                margin-right: auto;" />
+    </div> 
+    <div class="chart" style="float: right;">
+        <div id="time_voltage">
+            <!-- <img src="imgs/sample1.png" style=" display: block;
+                                                margin-left: auto;
+                                                margin-right: auto;" /> -->
+        </div>
+        <br>
+        <hr style="border-top: 1px dashed black;color:transparent;"/>
+      
+        <div id ="frequency_fft">
+            <!-- <img src="imgs/sample2.png" style=" display: block;
+                                                margin-left: auto;
+                                                margin-right: auto;
+                                                max-width:90%;
+                                                max-height:90%;" /> -->
+        </div>
+    </div>
+    
+   
+  </body>
+ <script src='script/index.js'></script>
+ <script src='script/volt.js'></script>
+ <script src='script/fft.js'></script>
+    <!--
+        The script is lilned after the body 
+        because the code inside index.js immediately runs. 
+    -->
+   
+
+</html>

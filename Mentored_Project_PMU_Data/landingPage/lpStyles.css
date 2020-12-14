@@ -1,0 +1,24 @@
+html
+{
+  font-family: "Andale mono", monospace;
+}
+
+#visualization
+{
+  float : left;
+  width : 75vw;
+  height : 97vh;
+  border: 1px solid gray;
+}
+
+#controls
+{
+  float : right;
+  width : 22vw;
+}
+
+#map
+{
+  width : inherit;
+  height : inherit;
+}

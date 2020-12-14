@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/spin.js/2.0.1/spin.min.js'></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <style>
+  @import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:400,600);
+  body {
+    font-family: "Source Code Pro", Consolas, monaco, monospace;
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 400;
+  }
+  </style>
+    <link rel='stylesheet' href='css/style.css'>
+    <title>Visual Analysis of PMU data</title>
+  </head>
+
+  <body >
+
+
+    <div class="jumbotron jumbotron-fluid" style="background: AliceBlue;">
+      <div class="container">
+        <h1 class="display-4">Visual Analysis of PMU Data</h1>
+        <p >PMUs, or phasor measurement units, are sensors that are placed in the power grid network, which measure various attributes associated with electricity (voltage, frequency, etc.). PMUs provide very fast measurements (usually at least 30 measurements per second) and the data is highly noisy, which makes analysis a non-trivial task. PMU data is therefore time series data that is linked through the network structure of the power grid network. When events occur in the power grid such as a blackout or oscillation, the effects of the event can propagate through the network and be sensed by PMUs. This project will be to develop a visual analytics interface to analyze the PMU dataset, with an emphasis on analyzing events and identifying anomalous behavior.</p>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+
+        <div id="spinner"></div>
+        <div class="row">
+
+          <div class=" col-md-4 col-lg-4 col-sm-4 col-xs-12">
+
+            <div class="control form-group" >
+              <h3>Bus Detail Charts:</h3>
+              <div class="input-margin">
+                <label for="busname">Bus Name:</label>
+                <select id='busname' onchange="drawChart();">
+
+                </select>
+              </div>
+
+              <div class="input-margin">
+                <label for="phase">Voltage Phase:</label>
+                <select class='select-css' id='phase' onchange="drawChart()">
+                  <option value=' Va'>VAm</option>
+                  <option value=' Vb'>VBm</option>
+                  <option value=' Vc'>VCm</option>
+                </select>
+              </div>
+
+              <div class="input-margin">
+                <label for="starttime">Start Timestamp: </label>
+                <input type="text" id="starttime" name="starttime" value="0">
+              </div>
+
+              <div class="input-margin">
+                <label for="endtime">End Timestamp: </label>
+                <input type="text" id="endtime" name="endtime" value="0.3">
+              </div>
+
+              <div class="input-margin">
+                <button class="btn btn-primary" id="Button1" type="button" onclick="drawVoltChart();">Plot Chart</button>
+              </div>
+
+              <div class="input-margin">
+                <label for="neighbor_graph" style="margin-left: 25%;">Selected Bus lines</label>
+                <div class="neighbor-chart" id = "neighbor_graph">
+
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="col-md-8 col-lg-8 col-sm-8 col-xs-12">
+            <div class="chart" >
+                <div id="time_voltage" >
+                    <!-- <img src="imgs/sample1.png" style=" display: block;
+                                                        margin-left: auto;
+                                                        margin-right: auto;" /> -->
+                </div>
+
+
+                <div id ="frequency_fft" >
+                    <!-- <img src="imgs/sample2.png" style=" display: block;
+                                                        margin-left: auto;
+                                                        margin-right: auto;
+                                                        max-width:90%;
+                                                        max-height:90%;" /> -->
+                </div>
+            </div>
+          </div>
+
+
+        </div>
+
+      </div>
+
+      <div id="blurback" style="display:none">
+        <span class="back-overlay"></span>
+      </div>
+
+  </body>
+ <script src='script/chart.js'></script>
+ <script src='script/volt.js'></script>
+ <script src='script/fft.js'></script>
+ <script src='script/neighbors.js'></script>
+
+    <!--
+        The script is lilned after the body
+        because the code inside index.js immediately runs.
+    -->
+
+
+</html>

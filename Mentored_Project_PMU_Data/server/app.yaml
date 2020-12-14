@@ -1,0 +1,7 @@
+runtime: python38
+
+env_variables:
+        CLOUD_SQL_CONNECTION_NAME: "gcp-connection-name"
+        DB_USER: "db-username"
+        DB_PASS: "db-password"
+        DB_NAME: "db-name"

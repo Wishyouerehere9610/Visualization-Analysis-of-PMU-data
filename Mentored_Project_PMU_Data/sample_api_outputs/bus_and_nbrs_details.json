@@ -1,0 +1,542 @@
+{
+  "Bus AUSTIN 27 0": [
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7091368026218738, 
+      "Bus AUSTIN 27 0 Vb": -0.9896148595497672, 
+      "Bus AUSTIN 27 0 Vc": -0.9023143709696058, 
+      "Time": 0.0
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7084974919021045, 
+      "Bus AUSTIN 27 0 Vb": -0.9894647373994134, 
+      "Bus AUSTIN 27 0 Vc": -0.9027092284932184, 
+      "Time": 0.033333
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7087106592657113, 
+      "Bus AUSTIN 27 0 Vb": -0.9895148671740343, 
+      "Bus AUSTIN 27 0 Vc": -0.902577690546728, 
+      "Time": 0.06666699999999999
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7096336472027305, 
+      "Bus AUSTIN 27 0 Vb": -0.9897310670441882, 
+      "Bus AUSTIN 27 0 Vc": -0.902006754249918, 
+      "Time": 0.1
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7092078016989195, 
+      "Bus AUSTIN 27 0 Vb": -0.9896314903101721, 
+      "Bus AUSTIN 27 0 Vc": -0.9022704527898527, 
+      "Time": 0.13333299999999998
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.709775538940877, 
+      "Bus AUSTIN 27 0 Vb": -0.9897641801121414, 
+      "Bus AUSTIN 27 0 Vc": -0.9019187825713895, 
+      "Time": 0.166667
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7091368026218738, 
+      "Bus AUSTIN 27 0 Vb": -0.9896148595497672, 
+      "Bus AUSTIN 27 0 Vc": -0.9023143709696058, 
+      "Time": 0.2
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7084264219433349, 
+      "Bus AUSTIN 27 0 Vb": -0.9894480076850206, 
+      "Bus AUSTIN 27 0 Vc": -0.902753056421786, 
+      "Time": 0.23333299999999998
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7091368026218738, 
+      "Bus AUSTIN 27 0 Vb": -0.9896148595497672, 
+      "Bus AUSTIN 27 0 Vc": -0.9023143709696058, 
+      "Time": 0.266667
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7089237628453642, 
+      "Bus AUSTIN 27 0 Vb": -0.9895649078923225, 
+      "Bus AUSTIN 27 0 Vc": -0.9024460713682335, 
+      "Time": 0.3
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0001, 
+      "Bus AUSTIN 27 0 Va": -0.7098464741636693, 
+      "Bus AUSTIN 27 0 Vb": -0.989780721799737, 
+      "Bus AUSTIN 27 0 Vc": -0.9018747832031172, 
+      "Time": 0.333333
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0001, 
+      "Bus AUSTIN 27 0 Va": -0.710130144063114, 
+      "Bus AUSTIN 27 0 Vb": -0.9898467895704036, 
+      "Bus AUSTIN 27 0 Vc": -0.9016986955469511, 
+      "Time": 0.366667
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 59.9999, 
+      "Bus AUSTIN 27 0 Va": -0.7082842607737189, 
+      "Bus AUSTIN 27 0 Vb": -0.989414518572962, 
+      "Bus AUSTIN 27 0 Vc": -0.9028406851958914, 
+      "Time": 0.4
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7085685547758941, 
+      "Bus AUSTIN 27 0 Vb": -0.9894814572191565, 
+      "Bus AUSTIN 27 0 Vc": -0.9026653915375585, 
+      "Time": 0.43333299999999997
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7082842607737189, 
+      "Bus AUSTIN 27 0 Vb": -0.989414518572962, 
+      "Bus AUSTIN 27 0 Vc": -0.9028406851958914, 
+      "Time": 0.466667
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7078576072994004, 
+      "Bus AUSTIN 27 0 Vb": -0.989313813782674, 
+      "Bus AUSTIN 27 0 Vc": -0.903103354822418, 
+      "Time": 0.5
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7076441849918612, 
+      "Bus AUSTIN 27 0 Vb": -0.9892633278278958, 
+      "Bus AUSTIN 27 0 Vc": -0.9032345677226437, 
+      "Time": 0.533333
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0001, 
+      "Bus AUSTIN 27 0 Va": -0.708213169564289, 
+      "Bus AUSTIN 27 0 Vb": -0.9893977591756313, 
+      "Bus AUSTIN 27 0 Vc": -0.9028844860405528, 
+      "Time": 0.566667
+    }, 
+    {
+      "Bus AUSTIN 27 0 Frequency": 60.0, 
+      "Bus AUSTIN 27 0 Va": -0.7074306989963458, 
+      "Bus AUSTIN 27 0 Vb": -0.9892127528394188, 
+      "Bus AUSTIN 27 0 Vc": -0.9033656993317589, 
+      "Time": 0.6
+    }
+  ], 
+  "Bus CEDAR PARK 1": [
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.0086561094602942, 
+      "Bus CEDAR PARK 1 Vb": -0.7898817201369905, 
+      "Bus CEDAR PARK 1 Vc": -0.2775572215443559, 
+      "Time": 0.0
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.008720170576184, 
+      "Bus CEDAR PARK 1 Vb": -0.7906366643014037, 
+      "Bus CEDAR PARK 1 Vc": -0.27872248277343054, 
+      "Time": 0.033333
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.008720170576184, 
+      "Bus CEDAR PARK 1 Vb": -0.7906366643014037, 
+      "Bus CEDAR PARK 1 Vc": -0.27872248277343054, 
+      "Time": 0.06666699999999999
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.0086452913932857, 
+      "Bus CEDAR PARK 1 Vb": -0.7897557854967736, 
+      "Bus CEDAR PARK 1 Vc": -0.2773629724361751, 
+      "Time": 0.1
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.0086668871810585, 
+      "Bus CEDAR PARK 1 Vb": -0.790007623181939, 
+      "Bus CEDAR PARK 1 Vc": -0.277751459550248, 
+      "Time": 0.13333299999999998
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.0086561094602942, 
+      "Bus CEDAR PARK 1 Vb": -0.7898817201369905, 
+      "Bus CEDAR PARK 1 Vc": -0.2775572215443559, 
+      "Time": 0.166667
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.0086883215821314, 
+      "Bus CEDAR PARK 1 Vb": -0.7902593344658686, 
+      "Bus CEDAR PARK 1 Vc": -0.2781399022240604, 
+      "Time": 0.2
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 59.9999, 
+      "Bus CEDAR PARK 1 Va": -1.0087568687674502, 
+      "Bus CEDAR PARK 1 Vb": -0.791076522693659, 
+      "Bus CEDAR PARK 1 Vc": -0.27940203324755136, 
+      "Time": 0.23333299999999998
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.0087359588967026, 
+      "Bus CEDAR PARK 1 Vb": -0.7908252224917063, 
+      "Bus CEDAR PARK 1 Vc": -0.2790137354336607, 
+      "Time": 0.266667
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.008751656430986, 
+      "Bus CEDAR PARK 1 Vb": -0.7910137095077482, 
+      "Bus CEDAR PARK 1 Vc": -0.2793049629826824, 
+      "Time": 0.3
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0001, 
+      "Bus CEDAR PARK 1 Va": -1.0086936549653256, 
+      "Bus CEDAR PARK 1 Vb": -0.790322242531945, 
+      "Bus CEDAR PARK 1 Vc": -0.2782370059414505, 
+      "Time": 0.333333
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.0086936549653256, 
+      "Bus CEDAR PARK 1 Vb": -0.790322242531945, 
+      "Bus CEDAR PARK 1 Vc": -0.2782370059414505, 
+      "Time": 0.366667
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 59.9999, 
+      "Bus CEDAR PARK 1 Va": -1.008818629959858, 
+      "Bus CEDAR PARK 1 Vb": -0.7918296637052991, 
+      "Bus CEDAR PARK 1 Vc": -0.280566658214745, 
+      "Time": 0.4
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.008772445251223, 
+      "Bus CEDAR PARK 1 Vb": -0.7912649147842788, 
+      "Bus CEDAR PARK 1 Vc": -0.279693227274126, 
+      "Time": 0.43333299999999997
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.0087776172371006, 
+      "Bus CEDAR PARK 1 Vb": -0.7913276963233519, 
+      "Bus CEDAR PARK 1 Vc": -0.27979028635708975, 
+      "Time": 0.466667
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.0087879309454761, 
+      "Bus CEDAR PARK 1 Vb": -0.7914532356610571, 
+      "Bus CEDAR PARK 1 Vc": -0.279984396128338, 
+      "Time": 0.5
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.0088033258488167, 
+      "Bus CEDAR PARK 1 Vb": -0.7916414853070536, 
+      "Bus CEDAR PARK 1 Vc": -0.2802755397839545, 
+      "Time": 0.533333
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0001, 
+      "Bus CEDAR PARK 1 Va": -1.0087307062104858, 
+      "Bus CEDAR PARK 1 Vb": -0.7907623776690167, 
+      "Bus CEDAR PARK 1 Vc": -0.2789166540024177, 
+      "Time": 0.566667
+    }, 
+    {
+      "Bus CEDAR PARK 1 Frequency": 60.0, 
+      "Bus CEDAR PARK 1 Va": -1.0087672631776206, 
+      "Bus CEDAR PARK 1 Vb": -0.7912021253325479, 
+      "Bus CEDAR PARK 1 Vc": -0.27959616539425763, 
+      "Time": 0.6
+    }
+  ], 
+  "Bus ROUND ROCK 3 1": [
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9635518537982023, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9559861897642798, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5931396737863381, 
+      "Time": 0.0
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9632560270782833, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9563046964276957, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5939541446349375, 
+      "Time": 0.033333
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9633448762496132, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9562092448261795, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5937098657084838, 
+      "Time": 0.06666699999999999
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9637288873441974, 
+      "Bus ROUND ROCK 3 1 Vb": -0.955794626872477, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5926507065180173, 
+      "Time": 0.1
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9635223144811677, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9560180834552602, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5932211475759269, 
+      "Time": 0.13333299999999998
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9636699147082093, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9558585194049352, 
+      "Bus ROUND ROCK 3 1 Vc": -0.592813719322164, 
+      "Time": 0.166667
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9634632069417224, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9560818421563595, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5933840773576553, 
+      "Time": 0.2
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 59.9999, 
+      "Bus ROUND ROCK 3 1 Va": -0.9630186721438343, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9565588132343588, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5946052937059385, 
+      "Time": 0.23333299999999998
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9632560270782833, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9563046964276957, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5939541446349375, 
+      "Time": 0.266667
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9630780686645044, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9564953414198702, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5944425420982236, 
+      "Time": 0.3
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0001, 
+      "Bus ROUND ROCK 3 1 Va": -0.9634040608637489, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9561455626141807, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5935469834039977, 
+      "Time": 0.333333
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9633448762496132, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9562092448261795, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5937098657084838, 
+      "Time": 0.366667
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 59.9999, 
+      "Bus ROUND ROCK 3 1 Va": -0.9627211117768536, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9568755983207824, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5954186948511467, 
+      "Time": 0.4
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9628700123190919, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9567173253672338, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5950120686550381, 
+      "Time": 0.43333299999999997
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.962780700877468, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9568123178434139, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5952560622295717, 
+      "Time": 0.466667
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9626614841673926, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9569388405231269, 
+      "Bus ROUND ROCK 3 1 Vc": -0.595581303655974, 
+      "Time": 0.5
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9627211117768536, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9568755983207824, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5954186948511467, 
+      "Time": 0.533333
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0001, 
+      "Bus ROUND ROCK 3 1 Va": -0.9631670912139115, 
+      "Bus ROUND ROCK 3 1 Vb": -0.95640006196179, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5941983701055186, 
+      "Time": 0.566667
+    }, 
+    {
+      "Bus ROUND ROCK 3 1 Frequency": 60.0, 
+      "Bus ROUND ROCK 3 1 Va": -0.9630483752194101, 
+      "Bus ROUND ROCK 3 1 Vb": -0.9565270821097499, 
+      "Bus ROUND ROCK 3 1 Vc": -0.5945239208747006, 
+      "Time": 0.6
+    }
+  ], 
+  "Bus ROUND ROCK 4 0": [
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8318422882737013, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0065768598428277, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8072291610391147, 
+      "Time": 0.0
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8312178953823828, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0065995663245912, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8078905283011569, 
+      "Time": 0.033333
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8314450637531154, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0065914503446438, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8076501441775716, 
+      "Time": 0.06666699999999999
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8321824420230943, 
+      "Bus ROUND ROCK 4 0 Vb": -1.006563961133177, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8068680035218424, 
+      "Time": 0.1
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8320124025889537, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0065704557836725, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8070486185976745, 
+      "Time": 0.13333299999999998
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8320124025889537, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0065704557836725, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8070486185976745, 
+      "Time": 0.166667
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8316153527314235, 
+      "Bus ROUND ROCK 4 0 Vb": -1.00658525766751, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8074697712795017, 
+      "Time": 0.2
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 59.9999, 
+      "Bus ROUND ROCK 4 0 Va": -0.8305924967175123, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0066210548210028, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8085509180157586, 
+      "Time": 0.23333299999999998
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8309905940167888, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0066075212486107, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8081307831622765, 
+      "Time": 0.266667
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8307631596927013, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0066153151154287, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8083709087224555, 
+      "Time": 0.3
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0001, 
+      "Bus ROUND ROCK 4 0 Va": -0.8313314961943791, 
+      "Bus ROUND ROCK 4 0 Vb": -1.006595528466528, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8077703523947628, 
+      "Time": 0.333333
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8313882841306867, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0065934944385535, 
+      "Bus ROUND ROCK 4 0 Vc": -0.807710252324727, 
+      "Time": 0.366667
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 59.9999, 
+      "Bus ROUND ROCK 4 0 Va": -0.8300800593334767, 
+      "Bus ROUND ROCK 4 0 Vb": -1.006637730360334, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8090905092133877, 
+      "Time": 0.4
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8304217589889992, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0066267039306829, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8087308545394796, 
+      "Time": 0.43333299999999997
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8303648298036368, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0066285668347337, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8087908172069024, 
+      "Time": 0.466667
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.829883656991619, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0065413410663602, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8091299548974173, 
+      "Time": 0.5
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8300545770089397, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0065359340852946, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8089502303579095, 
+      "Time": 0.533333
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0001, 
+      "Bus ROUND ROCK 4 0 Va": -0.831104261321671, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0066035639186723, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8080106718919302, 
+      "Time": 0.566667
+    }, 
+    {
+      "Bus ROUND ROCK 4 0 Frequency": 60.0, 
+      "Bus ROUND ROCK 4 0 Va": -0.8307062803411769, 
+      "Bus ROUND ROCK 4 0 Vb": -1.0066172384167988, 
+      "Bus ROUND ROCK 4 0 Vc": -0.8084309199047325, 
+      "Time": 0.6
+    }
+  ]
+}
